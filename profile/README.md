@@ -2,7 +2,7 @@
 
 We are a fully remote company based out of Canada with members spread around the world.
 
-Forget borders, feel free and feel safe to contribute because here at G&C, we pretend **Our World is One Country**. Disagree? Wherever you are, fork our repo and send us a message on discord @ https://discord.gg/kBpdUbkNQU and we'll hit you back with some cryptocurrency. There are no borders here!
+Forget borders, feel free and feel safe to contribute because here at G&C, we pretend **Our World is One Country**. Disagree? Wherever you are, fork our repo and send us a message on [Discord](https://discord.gg/kBpdUbkNQU) and we'll hit you back with some cryptocurrency. There are no borders here!
 
 ## Development Roadmap
 
