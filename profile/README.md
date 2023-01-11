@@ -4,6 +4,8 @@ We are a fully remote company based out of Canada with members spread around the
 
 Forget borders, feel free and feel safe to contribute because here at G&C, we pretend **Our World is One Country**. Disagree? Wherever you are, fork our repo and send us a message on [Discord](https://discord.gg/kBpdUbkNQU) and we'll hit you back with some cryptocurrency. There are no borders here!
 
+Our objective is to become Web3's decentralized news service. 
+
 ## Development Roadmap
 
 ### Step 1: Develop a custom application to replace the WordPress blog.
