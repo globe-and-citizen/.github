@@ -21,9 +21,10 @@ Celebrity Fanalyzer is one of many projects exploring how crypto currency can be
 How to determine the definition of "better" when opinions are subjective by definition? The simplest way is to implement a centralized process but this, of course, means only a single perspective is represented. A decentralize model of "better" is necessary and this is a hard problem. Once Layer 8 is deployed, Celebrity Fanalyzer will have vast amounts of anonymous data to analyze freely. How to rank (and reward) authors who contribute the "best" work? The answer is to-be-determined. Give us your thoughts! Give us your feedback!
 
 ### Step 5: Launch Globe & Citizen
-Want to communicate with the team here at Celebrity Fanalyzer? Contact us through a message on our Discord server: give an opinion, suggest a topic, or give feedback. We would love to hear from you! Celebrity Fanalyzer is a work in progress. If you want to get involved in shaping the future of the application, reach out to us via Discord:
+Deep fakes, fake media, toxic hate speech, and a consolidated media industry: this is the reality of the internet today. How to decentralize control of the media we consume but still provide a quality online service on par with a centralized one ? Once Layer 8 is established, the AI ranking algorithm is open sourced, and Celebrity Fanalyzer is a successful DAPP, it’s finally time to launch Globe & Citizen — our answer to this question. Reach out to us if you’re interested in getting involved.
 
-
+### Contact Us!
+Want to communicate with the team here at Celebrity Fanalyzer? Contact us through a message on our Discord server: give an opinion, suggest a topic, or give feedback. We would love to hear from you! Celebrity Fanalyzer is a work in progress. If you want to get involved in shaping the future of the application, reach out to us via Discord: @ https://discord.gg/a7PhuCEsXb
 
 
 ## Globe & Citizen in a snaptshot
