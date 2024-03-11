@@ -2,9 +2,17 @@
 
 We are a fully remote company based out of Canada with members spread around the world.
 
-Forget borders, feel free and feel safe to contribute because here at G&C, we pretend **Our World is One Country**. Disagree? Wherever you are, fork our repo and send us a message on [Discord](https://discord.gg/kBpdUbkNQU) and we'll hit you back with some cryptocurrency. There are no borders here!
+Forget borders, feel free and feel safe to contribute because here at G&C, we pretend our World is like one country. Disagree? Wherever you are, fork our repo and send us a message on [Discord](https://discord.gg/kBpdUbkNQU) and we'll hit you back with some cryptocurrency. There are no borders here!
 
-Our objective is to become Web3's decentralized news service. 
+Our goal @ Globe & Citizen is to be an unbiased source of information in a world dominated by fake news and fake media.
+
+* Globe & Citizen (the web app) is about sanitizing user data so that anyone can analyze the anonymized aggregate and decide their own truth. 
+
+* Globe & Citizen (the company) is about pioneering a globally distributed partnership model to replace the traditional, centralized, corporate business model.
+
+Recognizing the sensitivity of information, before collecting it, Globe & Citizen sanitizes and anonymizes all user data through an open source system called Layer8. By offereing up aggregated public statistics and open sourcing the analysis, we empower users to make their own decisions about what is truth. 
+
+
 
 ## Development Roadmap
 
