@@ -4,6 +4,8 @@ We are a fully remote company based out of Canada with members spread around the
 
 Forget borders, feel free and feel safe to contribute because here at G&C, we pretend **Our World is One Country**. Disagree? Wherever you are, fork our repo and send us a message on [Discord](https://discord.gg/kBpdUbkNQU) and we'll hit you back with some cryptocurrency. There are no borders here!
 
+Look at our [wiki](https://github.com/globe-and-citizen/.github/wiki) see our work process 
+
 Our objective is to become Web3's decentralized news service. 
 
 ## Development Roadmap
@@ -22,6 +24,8 @@ How do you determine what "better" when opinions are subjective? The simplest wa
 
 ### Step 5: Relaunch Celebrity Fanalyzer as "Globe & Citizen," as a news aggregator.
 Deep fakes, fake media, toxic hate speech, and centralized media industry driven by profit: this is the reality of the internet we live in. How to decentralize control of the media we consume but still provide a quality service on par with a centralized one? Once Layer 8 is established, the AI ranking algorithm is open sourced, and Celebrity Fanalyzer is a successful DAPP, it’s finally time to launch Globe & Citizen — our answer to this question. Reach out to us if you’re interested in getting involved.
+
+
 
 
 ## Globe & Citizen in a snaptshot
