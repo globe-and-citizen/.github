@@ -10,7 +10,7 @@ Our goal @ Globe & Citizen is to be an unbiased source of information in a world
 
 * Globe & Citizen (the company) is about pioneering a globally distributed partnership model to replace the traditional, centralized, corporate business model.
 
-Recognizing the sensitivity of information, before collecting it, Globe & Citizen sanitizes and anonymizes all user data through an open source system called Layer8. By offereing up aggregated public statistics and open sourcing the analysis, we empower users to make their own decisions about what is truth. 
+Recognizing the sensitivity of information, before collecting it, Globe & Citizen sanitizes and anonymizes all user data through an open source system called Layer8. By offering up aggregated public statistics and open sourcing the analysis, we empower users to make their own decisions about what is truth. 
 
 
 
